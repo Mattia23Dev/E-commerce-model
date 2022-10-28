@@ -1,0 +1,1 @@
+export const URL = 'https://e-commerce-tester.herokuapp.com'
